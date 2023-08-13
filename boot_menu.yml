@@ -1,0 +1,5 @@
+ublue_variants:
+  - label: lkn-os
+    ks: /kickstart/ublue-os.ks
+    flavors:
+      - label: lkn
