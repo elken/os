@@ -5,7 +5,7 @@
 
 [[https://github.com/elken/os/actions/workflows/build-image.yml][https://github.com/elken/os/actions/workflows/build-image.yml/badge.svg]]
 
-My custom image based on [[https://fedoraproject.org/sericea/][Fedora Sericea]] with a few changes & my dotfiles configured on first-boot
+My custom image based on [[https://fedoraproject.org/atomic-desktops/sway][Fedora Sway Atomic]] with a few changes & my dotfiles configured on first-boot
 
 * Intro
 This image makes the following changes:
